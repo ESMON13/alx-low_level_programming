@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
  * print_most_numbers - print num except 2 and 4
